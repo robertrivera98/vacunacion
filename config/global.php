@@ -16,6 +16,6 @@ define("DB_PASS","");
 define("DB_ENCODE","utf-8");
 
 //Nnombre del proyecto
-define("PRO_NOMBRE","RiveraVentas");
+define("PRO_NOMBRE","SistemaVacunacion");
 
 ?>
